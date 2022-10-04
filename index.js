@@ -149,7 +149,7 @@ client.login(process.env.token || config.token);
 
 /**********************************************************
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://discord.gg/milratoзуй
  * @INFO
  * Work for Milrato Development | https://milrato.eu
  * @INFO
